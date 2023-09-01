@@ -1,1 +1,2 @@
-Built a Cafe App menu learned html,basics of css while working on this project. HOW Css and html interact and work together.
+
+I became familiar with the foundations of HTML and CSS and created a Cafe menu to show how the two work together.
